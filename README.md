@@ -469,7 +469,7 @@ Create a realm using the `!createrealm` command.
 
 Support and Development: [The 404 Hacking](https://telegram.me/The404Hacking) Digital UnderGround Team !
 
-**Coded By [Mr.Hidden](https://Telegram.me/MrHiddenRoBot)
+**Coded By [Sir.4m1R](https://Telegram.me/Sir4m1R)
 
 # Special thanks to
 [@MahsaHacking](https://telegram.me/MahsaHacking)
